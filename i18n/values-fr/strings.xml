@@ -53,11 +53,11 @@
     <string name="section_misc">Divers</string>
 
     <!-- Version -->
-    <string name="pref_host_version">Version de l\'hébergeur</string>
+    <string name="pref_host_version">Version de l\'application hôte</string>
     <string name="pref_module_version">Version du module</string>
     <string name="pref_framework_name">Nom du sous système d\'injection</string>
     <string name="pref_framework_version">Version du sous système d\'injection</string>
-    <string name="pref_framework_privilege">Privilégèe du sous système d\'injection</string>
+    <string name="pref_framework_privilege">Accès du sous système d\'injection</string>
 
     <!-- Privilege -->
     <string name="privilege_root">Raçine</string>
@@ -67,9 +67,6 @@
     <string name="privilege_unknown">Inconnu</string>
 
     <!-- Features -->
-
-    <string name="feature_remove_misc_title">Supprimer les désagréments divers</string>
-    <string name="feature_remove_misc_desc">Supprimer le carrousel des vidéos, le tweet connexe / découvrir plus et les suggestions de personnes à suivre</string>
 
     <string name="feature_remove_promoted_timeline_tweet_title">Supprimer les tweets promotionnels du fil</string>
 
@@ -105,8 +102,6 @@
 
     <string name="feature_clean_url_title">Nettoyer les URL</string>
 
-    <string name="feature_download_video_title">Activer le téléchargement des vidéos</string>
-
     <string name="feature_custom_media_download_title">Activer le téléchargement personnalisé des médias</string>
     <string name="feature_custom_media_download_desc">Ajouter télécharger dans le boutton de partage</string>
 
@@ -139,5 +134,5 @@
 
     <string name="feature_force_high_quality_video_playing_title">Forcer les vidéos en haute qualité</string>
 
-    <string name="feature_disable_banner_view">Désactiver l\'affichage de la bannière</string>
+    <string name="feature_disable_banner_view_title">Désactiver l\'affichage de la bannière</string>
 </resources>
